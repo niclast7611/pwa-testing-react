@@ -21,7 +21,8 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "https://splendorous-licorice-270092.netlify.app",
+  "start_url": "/",
+  "scope": "." ,
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
